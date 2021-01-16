@@ -42,7 +42,7 @@ Excerpts of various modules for new CBME curriculum
 The integrated curriculum offers enjoyable learning experiences, leading to students’ satisfaction with the educational environment. A possible implication of this result is that the positive perception of the educational environment is associated with students’ improved perceptions of their quality of life, thereby increasing the likelihood of them achieving adequate learning development during medical school.  
 
 **Reduced Students’ desertion** 
-Integrated curriculum reform is useful for avoiding students’ desertion. Studies show that possibly because of the positive perception of the learning environment and the mentorships implemented in the preclinical phase, the over- all desertion rate declined from ~40% to 1.3% @hamza_process_2020.
+Integrated curriculum reform is useful for avoiding students’ desertion. Studies show that possibly because of the positive perception of the learning environment and the mentorships implemented in the preclinical phase, the over- all desertion rate declined from ~40% to 1.3% @hamza_process_2020. 
 
 #### Disadvantages  
 
