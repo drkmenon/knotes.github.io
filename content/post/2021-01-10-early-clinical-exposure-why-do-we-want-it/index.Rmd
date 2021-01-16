@@ -1,0 +1,63 @@
+---
+title: 'Early Clinical Exposure: why do we want it?'
+author: "Kishore Puthezhath"
+date: '2021-01-10'
+slug: early-clinical-exposure-why-do-we-want-it
+categories: Medical Education
+tags: Academic
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-10T23:14:20+05:30'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+bibliography: mypub.bib
+csl: vancouver.csl
+link-citations: yes
+---
+{{% callout note %}}
+Authentic human contact in a social or clinical context
+{{% /callout %}}
+Wealthy patients have always been able to choose not to be treated by novices, but now everyone has that option. Expertise has become superspecialized and technological in its nature, so students have to learn clinical skills from scores of teachers. As attachments have become more numerous, they have become shorter and the number of learners has increased, so education has become less personal. Traditional bedside teaching skills have decayed as each generation is less exposed to them.New educational technologies such as skills training and problem-based learning have brought education within the control of the objective-driven curriculum by substituting simulation for reality. All that sounds depressingly like the curriculum ‘without the personal influence of [clinical] teachers upon pupils’ that Osler likened to an Arctic winter  @dornanOslerFlexnerApprenticeship2005.
+
+**This is bewildering for any medical teacher worth his salt**.
+
+Two classic papers that help us to trace the roots of this situation and the potential vaccine for it (the Early Clinical Exposure) are those written by Tim Dornam FRCP and Okay Basak et al @dornanOslerFlexnerApprenticeship2005 and @basakEarlyClinicalExposure2009.
+
+## Dornan’s essay 
+
+He draws on biographies of two people (Osler and Flexner) who changed the face of medical education in the 20th century to trace the origins of bewildering times of doctors who teach medical students and suggest a direction for the 21st century. He thoroughly analyses the contributions of these two giants and suggested that the wheel has come full circle. Osler introduced a clerkship system that gave students a role in the clinical service.
+
+> Disease, in his view, was the student’s chief teacher, and teaching should be at the bedside rather than in the lecture hall. Teaching away from the bedside was a ‘bastard substitute.’
+
+## Flexner's contribution
+
+Where as Flexner was a visionary educationalist who raised standards of medicine round the world by wedding it with biomedical science. 
+
+## Dornan's contribution
+
+Dornan concludes that Apprenticeship, central to their visions, needs to be revisited and proposes a new apprenticeship theory. How ever, the most important achievement of Dornan’s paper is that he could clearly define the ECE as Authentic human contact in a social or clinical context and rationalize it. 
+
+## Basak et al.'s contribution
+
+Basak et al. revisited the problem of defining the ECE and came up with an objective definition. Their definition of ECE has three main aspects: 
+
+1. exposure to real patients or healthy people, 
+
+2. in community or clinical settings, and 
+
+3. occurring before the main clinical rotations.
+
+{{% callout note %}}
+
+## New apprenticeship theory
+
+It rejects extreme conceptualizations of self-directed learning, recognizing the importance of the chemistry between teacher and learner in the workplace.
+{{% /callout %}}
+[Click to see this model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1079407/table/tbl1/?report=objectonly) which presents those ideas as generalizable suggestions for apprenticeship in modern clinical settings.
+
+## References:

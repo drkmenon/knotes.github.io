@@ -1,0 +1,66 @@
+---
+title: 'Medical students: Innocent bystanders or long term losers?'
+author: "Kishore Puthezhath"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+date: '2020-08-08'
+slug: Medical education
+categories: Medical education
+tags: Academic
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-08-0 T23:14:20+05:30'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+bibliography: mypub.bib
+csl: vancouver.csl
+link-citations: yes
+---
+
+{{% callout note %}}
+The bewildering state of medical education
+{{% /callout %}}
+
+
+### The story so far: 
+With the ongoing COVID-19 pandemic, the media in general and the medical journals in specific have extensively covered its impact on the doctors, nurses and the healthcare workers. One group that has been rarely addressed despite being significantly affected is the medical students. Medical colleges in India have suspended the medical students from attending clinical attachments from March-April 2020 onwards. However, despite reduced exposure to specific specialities, the summative assessments are being conducted for the final year repeater batch of 2015.
+
+### What are the key challenges?
+
+The pandemic raises serious questions for medical colleges in India. During this unprecedented time, as trainee doctors, medical students stand to learn a tremendous amount and can contribute to the care of patients. How ever, clinical rotations can expose medical students to COVID-19 positive patients, risking their safety. Moreover, infected students may themselves become the source of spread of the disease. Physical distancing measures have precluded the conduct of classroom-based teaching and discussions, even for preclinical students. 
+{{% callout note %}}
++ `The day-by-day time table for new CBME (Competency-based Medical Education) batch of 2019 is disrupted`. 
++ Additionally, **it was about the time to prepare for phase 2 timetable**. 
++ Teachers of phase 2 also needed training for the new curriculum, which has been paused. 
++ Teachers and postgraduate students are being `recruited` for various COVID19 activities. Even <mark>`Professors` are doing clerical works like `records keeping` and some of them are doing `swabbing`.</mark>
+{{% /callout %}}
+In effect time available for teaching has reduced. More over, medical students will suffer a reduced exposure to certain clinical branches or a proportionally shortened rotation in all clinical branches. In case the pandemic continues for an unforeseeable time, an extension of the medical training period may be warranted. In all situations, the medical students will be at a loss.
+
+### Have we done anything to help them?
+
+<mark>**At most institutions, students have continued the curriculum but in a purely “non‐clinical” format**</mark>. 
+
+Faculty have continued to lecture using prerecorded videos or online video conferencing platforms like `WebEx, Zoom`, and so forth. Medical universities such as Kerala University of Health Sciences have come up with guidelines and limited training programs for the faculty on the usage of online platforms. In a move triggered by the COVID-19 pandemic, the board of governors(BoG) in supersession of the Medical Council of India (MCI) recently introduced a new pandemic management module to better prepare the future doctors for challenges posed by pandemics like COVID-19.
+
+## Why should medical education continue?
+
+There are several important reasons for ensuring the continuation of medical education in this hour. `This pandemic could be a once in a lifetime experience for anybody, not the least for a future medical practitioner`. If the current pandemic is going to take a reasonable time to abate, there may arise a paucity of healthcare workers.  In such situations, they may have to engage in certain aspects of patient care. If clinical rotations are deferred for the current student batches and clubbed with others, the density of learners would impair the clinical learning experience. A student who misses any part of the medical education is likely to find it difficult to join the dots later. Therefore, we must continue to facilitate the ongoing knowledge and skill development of the next generation of health professionals. 
+
+## Is remote learning the solution?
+
+Despite the undoubted advantage of e-learning and simulation-based education, in the current situation, there are distinct disadvantages. <mark>**These tools can be at the best supplemental to clinical teaching but not a replacement**</mark>. Moreover, setting up of a virtual learning or simulation environment is costly and time taking. Another major challenge of remote learning is the digital divide and the disparity in access – from electricity and internet connections to devices like computer or smartphones.
+
+## What is the way forward?
+{{% callout note %}}
+We need to prepare both the medical students and the faculty for continuing medical education, not only for now but also for possible future contagions. It will be reasonable to invest in these pedagogical innovations over the long-term and develop a central repository of the requisite sources beforehand. It may also be the right time for regulators, universities, educational experts and professional associations to come together as a team and lead the way forward in these difficult times. `We have to seriously rethink the strategy of keeping the medical students away from patients.`
+{{% /callout %}}
+May this period of ‘no teaching’ be the period of ‘greatest learning’. 
+
+`edit`: <mark>Students started coming to the hospitals 1 week back.</mark>

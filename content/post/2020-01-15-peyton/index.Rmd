@@ -1,0 +1,76 @@
+---
+title: 'Teaching and learning complex procedures '
+author: "Kishore Puthezhath"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+date: '2020-08-08'
+slug: Peyton 4 step
+categories: Medical education
+tags: Academic
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-08-0 T23:14:20+05:30'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+bibliography: mypub.bib
+csl: vancouver.csl
+link-citations: yes
+---
+
+{{% callout note %}}
+An enquiry in to Doto's 5 step and Peyton's 4 step methods
+{{% /callout %}}
+
+Acquisition of `procedures skills`  is an important element in health professions education. Traditionally `procedures skills` are taught using a ‘‘see one - do one’’ approach. This is referred to as Halsted’s teaching approach, which is based on the surgeon `Halsted (1904)`.   
+Recently  two new teaching approachs for the acquisition of procedural skills were described. 
+
+A stepwise `Skill` teaching approach was presented by George in the meeting of American College of Surgeons, 1997 and later published by George & Doto in 2001. Originally, it was developed as an educational technique to support the American College of Surgeon’s Advanced Trauma Life Support course. George and Doto used five steps. They based their teaching approach on Simpson’s taxonomy of the psychomotor domain (Simpson, 1966) . The steps are 
+
+{{% callout note %}}
+
++ Overview: Why and how the skill is important
++ demonstration  
++ The preceptor then repeats the procedure   
++ Students talk through the skill
++ performance.  
+{{% /callout %}} 
+
+If students have a problem learning a skill, the preceptor will need to identify which of the following reasons may be underlying their performance deficit.
+
++ Learner Trait Ability
+
+  > Learner trait ability is the inherent inability of the learner to perform the task because the learner may not possess the strength, fine  motor    coordination, or the fine motor skills necessary to do the task.
+
++ Inadequate/Inappropriate Task Description and/or Demonstration
++ Imprinting of Previous Incorrect or Obsolete Performance
++ Improper Correction/ Reinforcement
++ Affective Factors
++ Inaccurate Learner Perception of Performance
+
+If the preceptor recognizes any of these problems, corrective ac- tions can be initiated. Skill teaching need not be a time-intensive process if the preceptor will learn this quick and easy five-step method. While going through these five steps may seem lengthy, the result is that `the preceptor will spend less time observing and corrrecting performance problems and will ensure a better learning environment.` @georgeSimpleFivestepMethod
+
+Peyton’s teaching approach is  also a stepwise method with following four steps: 
+
+{{% callout note %}}
++ demonstration  
++ deconstruction   
++ comprehension and 
++ performance.  
+{{% /callout %}} 
+
+Within Peyton’s teaching approach, two of the five steps are collated into a single step @giacominoEffectivenessPeyton4step2020.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iXe1btHlgLQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Video showing Mr. J.W. Rodney Peyton FRCS   an accomplished `consultant trauma surgeon`, author and trainer with a longstanding commitment to surgical education talking about his concepts.**
+
+
+### References
+ 
