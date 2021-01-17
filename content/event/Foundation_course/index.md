@@ -10,7 +10,7 @@ all_day: True
 authors: []
 date: "2019-08-18T13:00:00Z"
 date_end: "2019-09-18T13:00:00Z"
-event: Foundation Course
+event: Foundation Course 2020
 event_url: 
 featured: false
 image:
@@ -23,7 +23,7 @@ links:
   url: https://twitter.com/drkmenon
 location: Amalanagar
 projects:
-- Foundation course
+- Foundation course 2020
 publishDate: "2019-10-01T00:00:00Z"
 slides: 
 summary: Foundation course lecture on self directed learning
