@@ -1,163 +1,153 @@
 ---
+title: SDL
+summary: How to create your own Self Directed Learning Plan feature.
 authors: []
+tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"
 slides:
-  highlight_style: dracula
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
-summary: An introduction to using Wowchemy's Slides feature.
-tags: []
-title: Slides
+  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
+  #   Light style: github. Dark style: dracula (default).
+  highlight_style: dracula
 ---
+# 
 
-# Create slides in Markdown with Wowchemy 
- 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+Give a Man a Fish, and You Feed Him for a Day.
 
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+Teach a Man To Fish, and You Feed Him for a Lifetime  
 
 ---
 
-## Controls
+# What is education?
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+Education is about more than setting up a fish (knowledge) distribution centre and handing fish out to all who come to the institution.
+
+Education is about fishing lessons
+
+It equips people with the competence and confidence to fish (learn) for the rest of their lives.
+
+This is not simply about job preparation. This is preparation for life
 
 ---
 
-## Code Highlighting
+## 
 
-Inline code: `variable`
+What is the best Educational tool?
 
-Code block:
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+**It is Self Directed Learning**
 
 ---
 
-## Math
+## What is the role of educational process?
 
-In-line math: $x + y = z$
+“To produce self directed life long learner”
 
-Block math:
+and
 
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
+“to teach students how to learn”
+
+---
+{{< slide background-image="/media/boards.jpg" >}}
+## How to create your own Self Directed Learning Plan 
+
+Kishore Puthezhath 
+MBBS, MS Orth, D Orth, FRCS (Tr & Orth) (London,UK)
 
 ---
 
-## Fragments
+## Self Directed Learning 
 
-Make content appear incrementally
+ >“A process in which individuals take the initiative without the help of others in diagnosing their learning needs, formulating goals, identifying human and material resources, and evaluating learning outcomes"
+ Knowles  
+---
 
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
+## Objective 
 
-Press `Space` to play!
+**Discuss** 
+- Methods of self directed learning (SDL)
 
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+- How to apply SDL in routine learning 
+
+---
+## Types of Learners
+
+- Self Directed Learner
+- Involved Learner
+- Interested Learner
+- Dependant Learner
 
 ---
 
-A fragment can accept two optional parameters:
-
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
-
----
-
-## Speaker Notes
+## Types of Teachers
 
 Add speaker notes to your presentation
 
-```markdown
-{{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{< /speaker_note >}}
+- Consultant/Delegator
+- Facilitator
+- Motivator
+- Authority Coach
 
 ---
 
-## Themes
+## Perfect Match
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
+Consultant teches SDL
 
----
+Facilitator teaches Involved learner
 
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
+Motivator teaches Interested learner
+
+Authoritarian coach teaches Dependant learner
 
 ---
-
-{{< slide background-image="/media/boards.jpg" >}}
-
-## Custom Slide
-
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
-
+## Art of learning: 8 simple ideas for you
+---
+## 1. Learn in depth
+- Investigate a single word
+- Do it until you graduate from here
+- Look at it from different disciplines (Biology, Literature, Statistics, etc..)
+- I would suggest this word: SDL
+---
+## 2. Create “My” learning journal
+- Digital or Physical
+- Explore
+  - What am I learning?
+  - Why am I learning?
+  - How am I learning?
+  - Where am I learning?
 ---
 
-## Custom CSS Example
+## 3. Enroll in a MOOC
 
-Let's make headers navy colored.
-
-Create `assets/css/reveal_custom.css` with:
-
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
-
+- edx
+- Coursera
+- P2P University
 ---
 
-# Questions?
+## 4.Build a learning network
+---
 
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
+## 5.Find a problem, solve it and report it
 
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+- Become an expert in that
+- do this as a project or as a paper
+---
+## 6.Flipped class
+
+- Learn by teaching
+- create your own content and resourses
+---
+
+## 7. “How do i do it”
+
+- Show and tell
+- Share how you learned something
+---
+
+## 8. Vocation of student
+
+- Vocation means “calling”
+- Think about your role of a student as a vocation
+- <mark>**Think: “Why am I studying?”**</mark>
