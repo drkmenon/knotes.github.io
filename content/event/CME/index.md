@@ -63,7 +63,7 @@ DD favouring `Amala Ortho CME` payable at SBI, Vilangan, Thrissur
 or 
 
 Wire transfer: Account No. 36288879813, IFSC Code: SBIN0008693
-CSBI, VILANGAN)
+SBI, VILANGAN)
 {{% /callout %}}
 
 {{% callout note %}}
