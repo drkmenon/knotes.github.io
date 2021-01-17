@@ -7,7 +7,7 @@ bibliography: mypub.bib
 ---
 
  {{% callout note %}}
-`r` for scholarly writing creation: diagrams, gantt charts,tables etc. 
+`r` for scholarly writing: creation of diagrams, gantt charts,tables etc. 
 {{% /callout %}}
 
 
