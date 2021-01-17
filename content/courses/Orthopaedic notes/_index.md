@@ -18,6 +18,6 @@ weight: 1
 
 
 “`So often in the world of orthopaedic surgery we jump to advanced imaging and forget about the importance of the examination. This is clearly a mistake and has caused many errors in clinical judgement.`” <mark>Mark D. Miller MD</mark>. 
-
+ 
 It is critical to develop correct examination technique. Equally important is to understand the basic principles of Orthopaedic theory and practice.
 The contents will be best seen in tablets, laptops and desktops
