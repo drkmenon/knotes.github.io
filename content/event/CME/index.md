@@ -26,7 +26,7 @@ projects:
 - Basic Orthopaedic Pathology
 publishDate: "2021-01-14T00:00:00Z"
 slides: 
-summary: Upcoming Orthopaedic Course on Basic Orthopaedic Pathology.
+summary: Upcoming Orthopaedic Course on Basic Orthopaedic Pathology.Seats limited to 50.
 tags: []
 title: Basic Orthopaedic Course 2021
 url_code: ""
@@ -37,6 +37,8 @@ url_video: ""
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oDBdVo0lM1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<mark>**Seats are limited to 50**</mark>
 
 For Registration, contact:
 

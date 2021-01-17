@@ -23,7 +23,7 @@ summary: Gorham's disease, or massive osteolysis, is a rare condition characteri
 
 tags:
 - Gorham's disease
-title: Gorham's disease of the fibula: a case report
+title: Gorham's disease of the fibula,  a case report
 url_code: ""
 url_dataset: ""
 url_pdf: 
