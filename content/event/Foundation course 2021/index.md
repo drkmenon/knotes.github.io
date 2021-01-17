@@ -9,7 +9,7 @@ address:
 all_day: True
 authors: []
 date: "2021-01-21T13:00:00Z"
-date_end: "2021-01-22T13:00:00Z"
+date_end: ""
 event: Foundation Course 2021
 event_url: 
 featured: true
