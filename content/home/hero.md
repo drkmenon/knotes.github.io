@@ -52,7 +52,7 @@ hero_media = "hero-academic.png"
 
 **The Best Way to learn Orthopaedics**
 
-Build **Yourself** with Wisdom   
+Build **Yourself**   
 
 Below is the link to the contents
 
