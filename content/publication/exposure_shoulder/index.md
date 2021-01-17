@@ -1,5 +1,5 @@
 ---
-abstract: ifferent techniques have been described for surgical exposure of the shoulder and proximal humerus. However, the neurovascular and muscular anatomy in the proximity of the humerus precludes the use of a "safe" extensive approach. We here present a new technique for extensive exposure of the proximal humerus and shoulder for wide resection of tumors. By reflecting the deltoid with its origin as an osteomyocutaneous flap downwards and backwards, the entire shoulder, including the rotator cuff and proximal humerus, are exposed with minimal damage to the blood supply and function of the deltoid muscle. This approach, which is a logical combination of anterior, transacromial and deltoid splitting approaches, was used in 17 patients, 11 achieving satisfactory functional results. Our new surgical approach reduces intraoperative damage to the blood supply of the deltoid and results in better function of the shoulder postoperatively because both the powerful intermediate muscle fibers of the deltoid and its acromial origin remain intact.
+abstract: Different techniques have been described for surgical exposure of the shoulder and proximal humerus. However, the neurovascular and muscular anatomy in the proximity of the humerus precludes the use of a "safe" extensive approach. We here present a new technique for extensive exposure of the proximal humerus and shoulder for wide resection of tumors. By reflecting the deltoid with its origin as an osteomyocutaneous flap downwards and backwards, the entire shoulder, including the rotator cuff and proximal humerus, are exposed with minimal damage to the blood supply and function of the deltoid muscle. This approach, which is a logical combination of anterior, transacromial and deltoid splitting approaches, was used in 17 patients, 11 achieving satisfactory functional results. Our new surgical approach reduces intraoperative damage to the blood supply of the deltoid and results in better function of the shoulder postoperatively because both the powerful intermediate muscle fibers of the deltoid and its acromial origin remain intact.
 author_notes:
 - Equal contribution
 - Equal contribution
@@ -23,7 +23,7 @@ summary: Our new surgical approach reduces intraoperative damage to the blood su
 
 
 tags:
-- Source Themes
+- exposure 
 title: A new surgical technique for extensive exposure of the proximal humerus and shoulder
 url_code: ""
 url_dataset: ""

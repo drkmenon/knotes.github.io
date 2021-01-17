@@ -24,7 +24,7 @@ summary: Our data provide the first reported clinical evidence that the CalTAD i
 
 
 tags:
-- Source Themes
+- calcar referenced tip apex distance
 title: Is calcar referenced tip-apex distance a better predicting factor for cutting out in biaxial cephalomedullary nails than tip-apex distance?
 url_code: ""
 url_dataset: ""

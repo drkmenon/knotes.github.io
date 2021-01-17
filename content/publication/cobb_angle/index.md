@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: It is possible to express the Cobb angle as a function of linear measurement. The author proposes that this would aid the surgeons to accurately and predictably achieve the desired scoliosis correction.
 tags:
-- Source Themes
+- Cobb angle
 title: Expressing Cobb Angle as Linear Measurement in Scoliosis and Its Significance, A Clinical and Geometrical Analysis of Scoliosis
 url_code: ""
 url_dataset: ""

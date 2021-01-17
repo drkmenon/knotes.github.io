@@ -23,7 +23,7 @@ summary:  The current article describes a case of tuberculosis of the lumbar spi
 
 
 tags:
-- Source Themes
+- Gluteal Abscess
 title: Gluteal Abscess, Diagnostic challenges and management
 url_code: ""
 url_dataset: ""

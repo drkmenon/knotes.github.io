@@ -22,7 +22,7 @@ slides:
 summary:  In this article, we describe a case of isolated Chopart's dorsal dislocation and discuss the mechanism of injury, management, and outcome.
 
 tags:
-- Source Themes
+- Chopart's dorsal dislocation
 title: Acute isolated dorsal midtarsal (Chopart's) dislocation, a case report
 url_code: ""
 url_dataset: ""

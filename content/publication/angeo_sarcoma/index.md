@@ -22,7 +22,7 @@ slides:
 summary:  It is important to differentiate EA from other tumors because the clinical course and treatment are specific for these conditions. Careful histologic and immunohistochemical analysis will clinch the diagnosis. Even though rare, we stress the importance to be aware of the existence of this tumor, which is essential for correct diagnosis.
 
 tags:
-- Source Themes
+- multicentric EA
 title: Multicentric epithelioid angiosarcoma of the spine, a case report of a rare bone tumor
 url_code: ""
 url_dataset: ""

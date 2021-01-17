@@ -1,5 +1,5 @@
 ---
-abstract: Isolated midtarsal (Chopart's) joint dislocations are rare, although cases involving medial, lateral, plantar, and dorsal displacement have been reported. These dislocations are often associated with osteochondral fractures. To the best of our knowledge, isolated dorsal midtarsal dislocation owing to plantarflexion of the forefoot on the hindfoot with the ankle in a neutral or dorsiflexed position is rare. In this article, we describe a case of isolated Chopart's dorsal dislocation and discuss the mechanism of injury, management, and outcome. The patient was treated with open reduction and repair of ligamentous structures, and Kirschner wire transfixation. At approximately 96 weeks following treatment, the patient was walking without aid, despite the development of posttraumatic degenerative changes at the calcaneocuboid joint. In retrospect, primary arthrodesis of the calcaneocuboid joint may have been more beneficial for the patient. We also describe the unusual mechanism whereby a plantarflexory force applied to the forefoot, without ankle plantarflexion, results in dorsal dislocation of the midtarsal joint.
+abstract: Gorham's disease, or massive osteolysis, is a rare condition characterized by the spontaneous onset of osteolysis in an otherwise healthy individual. Such osteolysis is related to localized endothelial proliferation of lymphatic vessels,lymphangiomatous osteolysis, resulting in destruction and absorption of bone, and is commonly thought to affect primarily cancellous bone. In this article, we describe a case of Gorham's disease involving the fibula in a 13-year-old boy with a 2-year history of pain and a 1-year history of muscle atrophy. The patient was treated with analgesics and anti-inflammatory drugs, and a period of immobilization. At the 3-year follow-up visit, the patient was ambulating without restrictions, although he experienced occasional episodes of pain and swelling localized to the left ankle; and follow-up radiographs revealed no further progression of the disease. Current literature suggests that the fibula, being primarily cortical bone, is not likely to be affected by Gorham's disease and that fibular grafts may be used in the treatment of the disorder. However, since this case depicts the disorder localizing to the distal fibula, we believe further studies are needed to validate the usefulness of fibular grafts in the treatment of the condition. Because the course of the disease is unpredictable and may arrest spontaneously, and based on the results observed in the patient described in this article, conservative treatment may be appropriate for Gorham's disease localized to the distal fibula.
 author_notes:
 - Equal contribution
 - Equal contribution
@@ -19,11 +19,11 @@ publication_types:
 - "2"
 publishDate: "2012-05-01T00:00:00Z"
 slides: 
-summary:  In this article, we describe a case of isolated Chopart's dorsal dislocation and discuss the mechanism of injury, management, and outcome.
+summary: Gorham's disease, or massive osteolysis, is a rare condition characterized by the spontaneous onset of osteolysis in an otherwise healthy individual.
 
 tags:
-- Source Themes
-title: Acute isolated dorsal midtarsal (Chopart's) dislocation, a case report
+- Gorham's disease
+title: Gorham's disease of the fibula: a case report
 url_code: ""
 url_dataset: ""
 url_pdf: 

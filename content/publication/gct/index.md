@@ -23,7 +23,7 @@ summary:  A CT based selection strategy is a valid preoperative tool for evaluat
 
 
 tags:
-- Source Themes
+- giant cell tumor
 title: Management of giant cell tumor of bone, computerized tomography based selection strategy and approaching the lesion through the site of cortical break
 url_code: ""
 url_dataset: ""

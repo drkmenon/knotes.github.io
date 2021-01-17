@@ -22,7 +22,7 @@ slides:
 summary:  In this article, we describe a case of isolated division of abductor pollicis longus tendon presenting with swan-neck deformity of thumb and discuss the mechanism, management and outcome.
 
 tags:
-- Source Themes
+- abductor pollicis longus tendon
 title: Abductor pollicis longus tendon division with swan neck thumb deformity
 url_code: ""
 url_dataset: ""
