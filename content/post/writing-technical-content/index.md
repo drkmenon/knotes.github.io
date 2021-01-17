@@ -219,5 +219,7 @@ renders as
 
 {{< spoiler text="Click to view the spoiler" >}} You found me! {{< /spoiler >}}
 
+NB: always remember this git command: <mark>git reset HEAD~n</mark> (where n is the number of commits to revert)
+
 
 
