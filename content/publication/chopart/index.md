@@ -1,5 +1,5 @@
 ---
-abstract: solated midtarsal (Chopart's) joint dislocations are rare, although cases involving medial, lateral, plantar, and dorsal displacement have been reported. These dislocations are often associated with osteochondral fractures. To the best of our knowledge, isolated dorsal midtarsal dislocation owing to plantarflexion of the forefoot on the hindfoot with the ankle in a neutral or dorsiflexed position is rare. In this article, we describe a case of isolated Chopart's dorsal dislocation and discuss the mechanism of injury, management, and outcome. The patient was treated with open reduction and repair of ligamentous structures, and Kirschner wire transfixation. At approximately 96 weeks following treatment, the patient was walking without aid, despite the development of posttraumatic degenerative changes at the calcaneocuboid joint. In retrospect, primary arthrodesis of the calcaneocuboid joint may have been more beneficial for the patient. We also describe the unusual mechanism whereby a plantarflexory force applied to the forefoot, without ankle plantarflexion, results in dorsal dislocation of the midtarsal joint.
+abstract: Isolated midtarsal (Chopart's) joint dislocations are rare, although cases involving medial, lateral, plantar, and dorsal displacement have been reported. These dislocations are often associated with osteochondral fractures. To the best of our knowledge, isolated dorsal midtarsal dislocation owing to plantarflexion of the forefoot on the hindfoot with the ankle in a neutral or dorsiflexed position is rare. In this article, we describe a case of isolated Chopart's dorsal dislocation and discuss the mechanism of injury, management, and outcome. The patient was treated with open reduction and repair of ligamentous structures, and Kirschner wire transfixation. At approximately 96 weeks following treatment, the patient was walking without aid, despite the development of posttraumatic degenerative changes at the calcaneocuboid joint. In retrospect, primary arthrodesis of the calcaneocuboid joint may have been more beneficial for the patient. We also describe the unusual mechanism whereby a plantarflexory force applied to the forefoot, without ankle plantarflexion, results in dorsal dislocation of the midtarsal joint.
 author_notes:
 - Equal contribution
 - Equal contribution
@@ -19,8 +19,7 @@ publication_types:
 - "2"
 publishDate: "2012-05-01T00:00:00Z"
 slides: 
-summary:  A CT based selection strategy is a valid preoperative tool for evaluation of giant cell tumor.
-
+summary:  In this article, we describe a case of isolated Chopart's dorsal dislocation and discuss the mechanism of injury, management, and outcome.
 
 tags:
 - Source Themes
