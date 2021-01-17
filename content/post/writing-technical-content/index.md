@@ -2,12 +2,12 @@
 date: "2021-01-11"
 diagram: true
 math: true
-title: Writing technical content in `r`
+title: Scholarly writing with `r`
 bibliography: mypub.bib
 ---
 
  {{% callout note %}}
-`r` for technical content creation
+`r` for scholarly writing creation: diagrams, gantt charts,tables etc. 
 {{% /callout %}}
 
 
