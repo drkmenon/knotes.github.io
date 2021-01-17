@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: true
 projects: []
-publication: '*J Orthop Surg (Hong Kong) Sep-Dec 2017;25(3)*'
+publication: '*Orthop Surg. 2013 Nov;5(4):293-6. doi: 10.1111/os.12072.*'
 publication_short: ""
 publication_types:
 - "2"
