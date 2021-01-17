@@ -25,7 +25,7 @@ location: Amalanagar
 projects:
 - Foundation course 2020
 publishDate: "2019-10-01T00:00:00Z"
-slides: 
+slides: sdl
 summary: Foundation course lecture on self directed learning
 tags: []
 title: Foundation course Talk 2020

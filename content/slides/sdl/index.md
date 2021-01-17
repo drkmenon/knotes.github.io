@@ -26,6 +26,8 @@ Education is about more than setting up a fish (knowledge) distribution centre a
 
 Education is about fishing lessons
 
+---
+
 It equips people with the competence and confidence to fish (learn) for the rest of their lives.
 
 This is not simply about job preparation. This is preparation for life

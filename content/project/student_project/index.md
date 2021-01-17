@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/drkmenon
-slides: example
+slides: 
 summary: Undergraduate student project currently under my guidance
 tags:
 - Ortho
