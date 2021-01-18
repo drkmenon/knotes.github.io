@@ -2,7 +2,7 @@
 date: "2021-01-11"
 diagram: true
 math: true
-title: Chear sheet for scholarly writing with `r`
+title: Cheat sheet for scholarly writing with `r`
 bibliography: mypub.bib
 ---
 
