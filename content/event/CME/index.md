@@ -14,7 +14,7 @@ event: Basic Orthopaedic Pathology CME
 event_url: https://elearning.amalaims.org/moodle_mc/course/view.php?id=481
 featured: true
 image:
-  caption: 'Basic Orthopaedic Course'
+  caption: 'Amala Basic Orthopaedic Pathology Course'
   focal_point: Right
 links:
 - icon: twitter
@@ -28,7 +28,7 @@ publishDate: "2021-01-14T00:00:00Z"
 slides: 
 summary: Upcoming Orthopaedic Course on Basic Orthopaedic Pathology.Seats limited to 50.
 tags: []
-title: Basic Orthopaedic Course 2021
+title: Amala Basic Orthopaedic Pathology Course 2021
 url_code: ""
 url_pdf: ""
 url_slides: ""
