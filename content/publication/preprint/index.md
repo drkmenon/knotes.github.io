@@ -11,10 +11,9 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
+- name: Virtual classroom
   url: https://www.medrxiv.org/content/10.1101/2020.04.13.20063164v2
-projects:
-- internal-project
+projects:[]
 publication: ""
 publication_short: ""
 publication_types:
@@ -23,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: Students learn content focused on orthopaedic clinical learning objectives as well using onsite virtual classroom as they do in the traditional classroom setting.
 tags:
-- Source Themes
+- Medical education
 title: VIRTUAL CLASSROOM preprint 
 url_code: '#'
 url_dataset: '#'

@@ -29,3 +29,7 @@ weight: 1
 
 ## Posterior dislocation shoulder
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTgY71o8PSg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Charcot shoulder
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W9_UZ3RuOOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
