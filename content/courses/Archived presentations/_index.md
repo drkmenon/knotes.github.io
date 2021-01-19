@@ -7,7 +7,7 @@ menu:
   Archived presentations:
     name: Videos
     weight: 2
-summary: These are some of the live case and topic discussions for the benifit of MS,DNB and MBBS students.
+summary: These are some of the live case and topic discussions recorded for the benifit of MS,DNB and MBBS students.
 title: Overview of the contents
 toc: true
 type: docs
