@@ -17,7 +17,7 @@ publication: '*https://doi.org/10.1101/2020.04.13.20063164*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-10-01T00:00:00Z"
+publishDate: "2020-04-01T00:00:00Z"
 slides: 
 summary: Students learn content focused on orthopaedic clinical learning objectives as well using onsite virtual classroom as they do in the traditional classroom setting.
 
