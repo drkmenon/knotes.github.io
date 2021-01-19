@@ -33,3 +33,11 @@ weight: 1
 ## Charcot shoulder
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W9_UZ3RuOOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## A rare presentation of multiple deformities in a child
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nuqJVv53uEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Gait revisited
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Ofwk5WmhU8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
