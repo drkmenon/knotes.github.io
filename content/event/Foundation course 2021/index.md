@@ -9,7 +9,7 @@ address:
 all_day: True
 authors: []
 date: "2021-01-21T13:00:00Z"
-date_end: "2021-01-22T13:00:00Z"
+date_end: "2021-01-19T13:00:00Z"
 event: Foundation Course 2021
 event_url: 
 featured: true
@@ -35,7 +35,7 @@ url_slides: ""
 url_video: ""
 ---
 {{% callout note %}}
-This is to be done asynchronously using moodle platform
+This was delivered asynchronously using moodle platform
 {{% /callout %}}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m9i_v6L4GvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
