@@ -51,3 +51,7 @@ weight: 1
 ## Elbow Instability
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1YtEXlMl9UY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Lines around the Hip
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0jKc5kgk50A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
