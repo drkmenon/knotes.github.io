@@ -4,7 +4,7 @@ draft: false
 linktitle: Gait analysis
 menu:
   Archived presentations:
-    parent: Archived presentations
+    parent: Clinical case
     weight: 1
 title: Gait
 toc: true
