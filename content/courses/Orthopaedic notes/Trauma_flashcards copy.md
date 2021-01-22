@@ -5,11 +5,11 @@ linktitle: Trauma Flashcards
 menu:
   Orthopaedic Notes:
     parent: Flashcards
-    weight: 2
+    weight: 6
 title: Few quick revision flashcards
 toc: true
 type: docs
-weight: 1
+weight: 2
 ---
 
 {{% callout note %}}
@@ -99,3 +99,27 @@ A list topics in Trauma
 ## Amputation
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/nIj13lF7wdtbY" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/nIj13lF7wdtbY" title="Amputation" target="_blank">Amputation</a> </strong> from <strong><a href="https://www.slideshare.net/drkmenon" target="_blank">Kishore Puthezhath</a></strong> </div>
+
+## Spine trauma
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sKR9IgKddAkmag" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/sKR9IgKddAkmag" title="Spine trauma t:l spine" target="_blank">Spine trauma t:l spine</a> </strong> from <strong><a href="https://www.slideshare.net/PuthezhathKishore" target="_blank">PuthezhathKishore</a></strong> </div>
+
+## Cervical trauma
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lzevOLpnnKSk43" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/lzevOLpnnKSk43" title="Cervical trauma" target="_blank">Cervical trauma</a> </strong> from <strong><a href="https://www.slideshare.net/PuthezhathKishore" target="_blank">PuthezhathKishore</a></strong> </div>
+
+## TL Spine trauma
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sKR9IgKddAkmag" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/sKR9IgKddAkmag" title="Spine trauma t:l spine" target="_blank">Spine trauma t:l spine</a> </strong> from <strong><a href="https://www.slideshare.net/PuthezhathKishore" target="_blank">PuthezhathKishore</a></strong> </div>
+
+## Scaphoid fracture
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Fft5WQGfA4SlcM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/Fft5WQGfA4SlcM" title="Scaphoid" target="_blank">Scaphoid</a> </strong> from <strong><a href="https://www.slideshare.net/PuthezhathKishore" target="_blank">PuthezhathKishore</a></strong> </div>
+
+## Lunate and Perilunate dislocation
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MU114lFUTNZZRl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/MU114lFUTNZZRl" title="Lunate and perilunate d" target="_blank">Lunate and perilunate d</a> </strong> from <strong><a href="https://www.slideshare.net/PuthezhathKishore" target="_blank">PuthezhathKishore</a></strong> </div>
+
+## Flexar tendon injury
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/IBE5wRjqwRTvsB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/IBE5wRjqwRTvsB" title="Flexar tendon" target="_blank">Flexar tendon</a> </strong> from <strong><a href="https://www.slideshare.net/PuthezhathKishore" target="_blank">PuthezhathKishore</a></strong> </div>
