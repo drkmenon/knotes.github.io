@@ -9,7 +9,7 @@ menu:
 title: Neuromuscular junction
 toc: true
 type: docs
-weight: 1
+weight: 2
 ---
 {{% callout note %}}
 This is all you have to know for your FRCS exam

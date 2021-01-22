@@ -9,7 +9,7 @@ menu:
 title: Bone cement
 toc: true
 type: docs
-weight: 1
+weight: 2
 ---
 
 {{% callout note %}}

@@ -9,7 +9,7 @@ menu:
 title: Few quick revision flashcards
 toc: true
 type: docs
-weight: 1
+weight: 6
 ---
 
 {{% callout note %}}

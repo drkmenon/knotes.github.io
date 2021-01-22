@@ -9,7 +9,7 @@ menu:
 title: Funnel plot
 toc: true
 type: docs
-weight: 2
+weight: 3
 ---
 
 {{% callout note %}}

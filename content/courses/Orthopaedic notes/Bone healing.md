@@ -9,7 +9,7 @@ menu:
 linktitle: Bone healing
 toc: true
 type: docs
-weight: 1
+weight: 2
 ---
 ## Bone healing. 
 

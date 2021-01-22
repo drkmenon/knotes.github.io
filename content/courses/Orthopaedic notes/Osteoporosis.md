@@ -9,5 +9,5 @@ menu:
 title: Osteoporosis
 toc: true
 type: docs
-weight: 1
+weight: 2
 ---
