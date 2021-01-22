@@ -4,8 +4,8 @@ draft: false
 linktitle: Principles of TKA
 menu:
   Orthopaedic Notes:
-    parent: A Pathology
-    weight: 1
+    parent: Adult Pathology
+    weight: 3
 title: TKA Fundamentals
 toc: true
 type: docs

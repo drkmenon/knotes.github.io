@@ -5,7 +5,7 @@ linktitle: Leg compartments
 menu:
   Orthopaedic Notes:
     parent: Basic Science
-    weight: 1
+    weight: 2
 title: Leg compartments
 toc: true
 type: docs

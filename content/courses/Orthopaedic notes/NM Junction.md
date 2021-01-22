@@ -5,7 +5,7 @@ linktitle: NM Junction
 menu:
   Orthopaedic Notes:
     parent: Basic Science
-    weight: 1
+    weight: 2
 title: Neuromuscular junction
 toc: true
 type: docs

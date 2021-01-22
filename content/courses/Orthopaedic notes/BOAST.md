@@ -5,7 +5,7 @@ date: '2019-05-05T00:00:00+01:00'
 menu:
   Orthopaedic Notes:
     parent: Guidelines
-    weight: 2
+    weight: 7
 linktitle: BOAST Guidelines
 toc: true
 type: docs

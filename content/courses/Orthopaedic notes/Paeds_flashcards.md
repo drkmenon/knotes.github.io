@@ -5,7 +5,7 @@ linktitle: Paediatric Flashcards
 menu:
   Orthopaedic Notes:
     parent: Flashcards
-    weight: 2
+    weight: 6
 title: Few quick revision flashcards
 toc: true
 type: docs

@@ -5,7 +5,7 @@ linktitle: Funnel plot
 menu:
   Orthopaedic Notes:
     parent: Statistics
-    weight: 1
+    weight: 3
 title: Funnel plot
 toc: true
 type: docs

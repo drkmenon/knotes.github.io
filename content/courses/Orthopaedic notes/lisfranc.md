@@ -5,7 +5,7 @@ linktitle: Lisfranc anatomy
 menu:
   Orthopaedic Notes:
     parent: Basic Science
-    weight: 1
+    weight: 2
 title: Lisfranc anatomy
 toc: true
 type: docs
