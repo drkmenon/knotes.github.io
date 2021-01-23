@@ -28,7 +28,7 @@ link-citations: yes
 Sharing a great vaccination experience
 {{% /callout %}}
 
-![**Myself in front of Amala Vaccination facility**](/img/me.png/)
+![***Myself in front of Amala Vaccination facility***](/img/me.png/)
 
 
 Since the announcement of vaccination program from Jan 16^th^ 2021, I felt amazement at the scientific accomplishment.
