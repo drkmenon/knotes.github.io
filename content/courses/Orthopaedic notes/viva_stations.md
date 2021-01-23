@@ -4,8 +4,8 @@ draft: false
 linktitle: Viva stations
 menu:
   Orthopaedic Notes:
-    parent: Viva stations
-    weight: 6
+    parent: Flashcards
+    weight: 1
 title: Few quick revision video showing hundreds of viva stations
 toc: true
 type: docs
