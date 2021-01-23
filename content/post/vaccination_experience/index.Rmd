@@ -34,9 +34,7 @@ Sharing a great vaccination experience
 Since the announcement of vaccination program from Jan 16^th^ 2021, I felt amazement at the scientific accomplishment.
 
 
-I understand that the AZD1222 (Covishield) vaccine is a replication-deficient simian adenovirus vector, containing the full‐length codon‐optimized coding sequence of SARS-CoV-2 spike protein along with a tissue plasminogen activator (tPA) leader sequence. The researchers used the SARS-CoV-2 genome that was sequenced in Wuhan. 
-
-The modified chimpanzee adenovirus cannot replicate, so does not cause further infection, and instead acts as a vector to transfer the SARS-CoV-2 spike protein. The spike S1 protein is an external protein that enables the SARS-type coronavirus to enter cells through the enzymatic domain of ACE2. After vaccination, this spike protein is produced, promoting the immune system to attack the coronavirus if it later infects the body [@OxfordAstraZenecaCOVID192021].  
+I understand that the AZD1222 (Covishield) vaccine is a replication-deficient simian adenovirus vector, containing the full‐length codon‐optimized coding sequence of SARS-CoV-2 spike protein along with a tissue plasminogen activator (tPA) leader sequence. After vaccination, this spike protein is produced, promoting the immune system to attack the coronavirus if it later infects the body [@OxfordAstraZenecaCOVID192021].  
 
 
 `I look at this astounding achievement as pure magic`.
