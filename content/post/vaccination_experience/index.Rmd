@@ -41,7 +41,7 @@ I understand that the AZD1222 (Covishield) vaccine is a replication-deficient si
 
 
 {{% callout note %}}
-Today was the day I got the COVID vaccine at the Amala Institute of Medical Sciences Vaccination center.
+Today was the day I got the 1^st^ dose of COVID vaccine at the Amala Institute of Medical Sciences Vaccination center.
 {{% /callout %}}
 
 As I walked to the facility, I was filled with excitement and anxiety. The weight of all these months — staying away from loved ones, taking care of patients, conducting online and offline classes, carrying out covid duties, coupled with the tension-filled job of trying to keep me and my loved ones safe — everything surfaced in me. I wondered, how would I react to the vaccine?
