@@ -29,10 +29,10 @@ Please see the abstract below:
 Doctor,what do you mean by p value?**
 
 {{% callout note %}}
-p value is the point estimate of chance of falsly rejecting the null hypothesis
+p value is the point estimate of chance of falsely rejecting the null hypothesis
 {{% /callout %}}  
 
-Assume that we have a normally destributed population of old ladies with a mean T score of -3. That means they have osteoporosis as a population. Now consider we are conducting a clinical trial in which Alendronate is give and after that T score has become -2.
+Assume that we have a normally distributed population of old ladies with a mean T score of -3. That means they have osteoporosis as a population. Now consider we are conducting a clinical trial in which Alendronate is give and after that T score has become -2.
 
 ![a normally destributed population](/img/normal.png/)**Figure 2**
 
