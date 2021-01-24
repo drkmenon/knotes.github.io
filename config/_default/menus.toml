@@ -37,7 +37,7 @@
   
 
 [[main]]
-  name = "contact"
+  name = "comment"
   url = "#contact"
   weight = 90
 
