@@ -20,6 +20,9 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- description: 30%
+  icon: chess
+  icon_pac: fas
 - description: 80%
   icon: chart-line
   icon_pack: fas
@@ -35,7 +38,8 @@ feature:
 - description: 100%
   icon: stethoscope
   icon_pack: fas
-  name: Orthopaedic Surgeon
+  name: Orthopaedic Surgery 
+
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
