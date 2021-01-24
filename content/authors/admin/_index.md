@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Kerala University of Health Sciences
   url: https://kuhs.ac.in/
-role: (Professor Associate) of Orthopaedics
+role: Professor (Associate) of Orthopaedics
 social:
 - icon: envelope
   icon_pack: fas
