@@ -18,10 +18,11 @@ interests:
 - Biostatistics
 - Medical Education
 - Androgogy
+- Chess
 organizations:
 - name: Kerala University of Health Sciences
   url: https://kuhs.ac.in/
-role: Professor Associate of Orthopaedics
+role: (Professor Associate) of Orthopaedics
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,7 +43,7 @@ superuser: true
 title: Kishore Puthezhath FRCS 
 ---
 
-Kishore Puthezhath FRCS is a professor associate of orthopaedics and consultant paediatric orthopaedic surgeon at the KUHS. His research interests include paediatric deformities, biostatistics and Oualitative research using 'r'. He leads the Paediatric Orthopaedics in a tertiary teaching hospital in Kerala.
+Kishore Puthezhath FRCS is a professor (associate) of orthopaedics and consultant paediatric orthopaedic surgeon at the KUHS. His research interests include paediatric deformities, biostatistics and Oualitative research using 'r'. He leads the Paediatric Orthopaedics in a tertiary teaching hospital in Kerala.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
