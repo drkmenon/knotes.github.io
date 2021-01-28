@@ -30,6 +30,12 @@ This is all you have to know for your FRCS exam
 - Swelling
 - Deformity
 
+Stand: deformity (rocker bottom and planovalgus)
+Walk: Clawing and **Foot wear**
+Sit and look: Deformity, ulceration, inflammation
+Feel: Temperature, tenderness, pulse, sensation
+Move
+Special tests: Silverskieold,vibration, offer probing ulcer
 ## Cahrcot vs Infection
 
 |Charcor|Infection|
@@ -67,5 +73,38 @@ _ Infection: Leprosy, syphilis
 _ Inflammatory theory (Favoured)
   Here injury lead to inflammation and activate RANK-RANKL pathway leading to bone resorption
   
+  
+## Investigations
+### Suspected charcot
+Suspect charcot if there is inflammation/deformity along with perepheral neuropathy/renal failure.
+
+**Weight bearning xray. If negative MRI**
+  
 ## management principles
+
+MDT approach
+
+1. non removable offloading device
+2. No Bisphosphonate
+3. Monitor tratment by foot skin temperature assessment and seriel xrays until inflammation resolves.
+4. Resolved inflammation means, temperature difference is < 2<sup>0</sup>  b/w feet and seriel xray shows no progression
+
+
+- Stop inflammation
+- Protect and maintain foot architecture
+- Relieve pain
+- Arrest/reverse demineralisation
+- Prevent/limit deformity
+- Control DM
+
+### Non surgical treatment
+- Manage DM
+- Manage ulcer
+- Manage infection
+main treatment is Total Contact Cast
+### Surgical management
+- acute deformity correction
+- c/c deformity correction: Arthrodesis/osteotom
+- Bony prominance excision
+
 
