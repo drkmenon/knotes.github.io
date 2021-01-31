@@ -55,6 +55,21 @@ An understanding of the systematic approach to bone and soft tissue tumors
 
 ---
 
+## Common presentations
+- Pain
+- Pathological fracture
+- Metastatic Hypercalcemia
+
+---
+
+Prognosis : median survival in patients with metastatic bone disease
+
+- thyroid: 48 months
+- prostate: 40 months
+- breast: 24 months
+- kidney: may be as short as 6 months
+- lung: 6-7 months
+
 - Screen for the primary: 
   - history and examination
   - Lab tests: FBC, electrophoresis,Biochemical markers
@@ -76,6 +91,14 @@ An understanding of the systematic approach to bone and soft tissue tumors
 - Surgical treatment of metastasis for pain and to prevent fracture
 - Stabilise/reconstruct pathological fracture
 - Decompress spinal cord and nerve roots and stabilise spine
+
+---
+
+## Non operative treatment
+
+- Bisphosphonate
+- Denosumab
+- RT
 
 ---
 ### Role of surgery
@@ -119,6 +142,23 @@ Mirel
 - VTE prophylaxis
 - Analgesia
 ---
+
+## metastatic hypercalcemia
+- it is a medical emergency 
+symptoms include 
+  - confusion
+  - muscle weakness
+  - polyuria & polydipsia
+  - nausea/vomiting
+  - dehydration
+
+---
+
+## treatment 
+- hydration (volume expansion)
+- loop diuretics
+- bisphosphonates
+
 ## Hip
 - Head, neck: Cemented hemi
 - Subtr
