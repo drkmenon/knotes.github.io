@@ -69,7 +69,7 @@ Prognosis : median survival in patients with metastatic bone disease
 - breast: 24 months
 - kidney: may be as short as 6 months
 - lung: 6-7 months
-
+---
 - Screen for the primary: 
   - history and examination
   - Lab tests: FBC, electrophoresis,Biochemical markers
