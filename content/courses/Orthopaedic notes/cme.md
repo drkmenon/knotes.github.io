@@ -38,6 +38,15 @@ An understanding of the systematic approach to bone and soft tissue tumors
 
 ---
  
+
+![](/img/fc2.jpg/)
+
+---
+
+![](/img/fc1.jpg/)
+
+---
+
 ## MDT approach 
 
 ---
@@ -248,13 +257,6 @@ a family history of bone lesions or hereditary musculoskeletal conditions (eg, m
 
 ---
 
-![](/img/fc2.jpg/)
-
----
-
-![](/img/fc1.jpg/)
-
----
 
 - After initial History and examination
 - Get more information about lesion “Local staging”
