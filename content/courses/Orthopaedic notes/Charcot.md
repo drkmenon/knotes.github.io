@@ -104,7 +104,7 @@ MDT approach
 main treatment is Total Contact Cast
 ### Surgical management
 - acute deformity correction
-- c/c deformity correction: Arthrodesis/osteotomy
+- c/c deformity correction: Arthrodesis/osteotom
 - Bony prominance excision
 
 
