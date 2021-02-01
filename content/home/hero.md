@@ -50,11 +50,11 @@ hero_media = "hero-academic.png"
 +++
 
 
-**The Best Place to Learn Orthopaedics**
+**the best place to learn orthopaedics**
 
-Build **Yourself**   
+build **yourself**   
 
-Below is the link to the contents
+below is the link to the contents
 
 
 
