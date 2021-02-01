@@ -16,7 +16,7 @@ weight: 2
 ---
 
 {{< slide background-image="/media/boards.jpg" >}}
-# Approach to bone tumours 
+# Approach to musculoskeletal tumours 
 
 ## <font color="white">**Kishore Puthezhath** 
 
@@ -26,7 +26,7 @@ weight: 2
 
 # SLO
 
-An understanding of the systematic approach to bone and soft tissue tumors
+Understand the systematic approach to bone and soft tissue tumors
 
 ---
 
@@ -42,19 +42,15 @@ An understanding of the systematic approach to bone and soft tissue tumors
 
 --- 
 
-![](/img/fc2.jpg/)
-
----
-
-![](/img/fc1.jpg/)
-
----
-
 ## MDT approach 
 
 ---
 ### Metastatic bone tumor
 ![](/img/mbds.png/)
+
+---
+
+##### What is the biology?
 
 ---
 
@@ -85,6 +81,44 @@ Prognosis : median survival in patients with metastatic bone disease
 - Do not rush to fix
 
 ---
+
+## General considerations
+- Optimise comorbidities
+- Hypercalcemia, fluid and electrolytes
+- Xray entire affected bone
+- Preop embolisation
+- VTE prophylaxis
+- Analgesia
+
+---
+
+## Non operative treatment
+
+- Bisphosphonate
+- Denosumab
+- RT
+
+---
+
+## metastatic hypercalcemia
+- it is a medical emergency
+
+symptoms include 
+  - confusion
+  - muscle weakness
+  - polyuria & polydipsia
+  - nausea/vomiting
+  - dehydration
+
+---
+
+## treatment 
+- hydration (volume expansion)
+- loop diuretics
+- bisphosphonates
+
+---
+
 ### Role of Orthopaedic surgeon
 - Biopsy
   - Solitary
@@ -95,13 +129,6 @@ Prognosis : median survival in patients with metastatic bone disease
 - Stabilise/reconstruct pathological fracture
 - Decompress spinal cord and nerve roots and stabilise spine
 
----
-
-## Non operative treatment
-
-- Bisphosphonate
-- Denosumab
-- RT
 
 ---
 ### Role of surgery
@@ -120,7 +147,7 @@ Prognosis : median survival in patients with metastatic bone disease
 ---
 
 ### Risk of fracture
-Mirel
+<font color="ruby">Mirel</font>
  - Pain (Most important)
  - Type of lesion
  - Location
@@ -134,33 +161,6 @@ Mirel
 - Functional ability
 - Comorbidities and ASA grade
 - Patient motivation and life expectancy
-
----
-
-## General considerations
-- Optimise comorbidities
-- Hypercalcemia, fluid and electrolytes
-- Xray entire affected bone
-- Preop embolisation
-- VTE prophylaxis
-- Analgesia
----
-
-## metastatic hypercalcemia
-- it is a medical emergency 
-symptoms include 
-  - confusion
-  - muscle weakness
-  - polyuria & polydipsia
-  - nausea/vomiting
-  - dehydration
-
----
-
-## treatment 
-- hydration (volume expansion)
-- loop diuretics
-- bisphosphonates
 
 ---
 
@@ -333,4 +333,26 @@ a family history of bone lesions or hereditary musculoskeletal conditions (eg, m
 ---
 
 ![intramuscular plain](/img/ms.png)<figcaption>problem of standard incision
-    
+
+---
+
+![](/img/mbd.png/)
+
+---
+
+![](/img/pbt.png/)
+
+---
+
+![](/img/fc2.jpg/)
+
+---
+
+![](/img/ss.jpeg/)
+
+--- 
+
+
+![](/img/fc1.jpg/)
+
+---
