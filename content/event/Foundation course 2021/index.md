@@ -1,5 +1,5 @@
 ---
-abstract: This is the foundation course 2021 lecture to be  delivered in mid February.
+abstract: This is the foundation course 2021 lecture  delivered in mid January.
 address:
   city: Thrissur
   country: India
