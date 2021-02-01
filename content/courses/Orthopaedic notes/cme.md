@@ -37,7 +37,10 @@ An understanding of the systematic approach to bone and soft tissue tumors
 ![](/img/pbt.png/)
 
 ---
- 
+
+![](/img/ss.jpeg/)
+
+--- 
 
 ![](/img/fc2.jpg/)
 
