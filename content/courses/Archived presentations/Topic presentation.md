@@ -55,3 +55,7 @@ weight: 1
 ## Lines around the Hip
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0jKc5kgk50A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Plates for Orthopaedics Part 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/veo91Z8WYDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
