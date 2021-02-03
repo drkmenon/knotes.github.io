@@ -338,7 +338,7 @@ a family history of bone lesions or hereditary musculoskeletal conditions (eg, m
 
 ---
 
-![Longitudinal incisions](/img/bt2.png/)<figcaption>longitudinal incision
+![Longitudinal incisions](/img/bt2.png/)<figcaption>transverse incision
 
 ---
 
