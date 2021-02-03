@@ -20,7 +20,7 @@ weight: 2
 
 ## <font color="white">**Kishore Puthezhath** 
 
-***MBBS, MS Orth, D Orth, FRCS (Tr & Orth) (UK),FIME***</font>
+***MBBS, MS Orth, D Orth, FRCS (Tr & Orth) (UK)***</font>
 
 ---
 
