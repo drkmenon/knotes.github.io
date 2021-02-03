@@ -50,6 +50,12 @@ Tell me about this image, 55 y old male, cough, pain left shoulder.
 - Recognise aggrasive lesions
 - Formulate appropriate management
 
+--- 
+## Your objectives in a viva
+- ~~Describe lesion on the xray~~
+- ~~Recognise aggrasive lesions~~
+- Formulate appropriate management
+
 Buzz word is <font color="red">MDT approach</font> 
 
 ---
