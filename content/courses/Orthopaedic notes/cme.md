@@ -26,23 +26,31 @@ weight: 2
 
 # SLO
 
-Understand the systematic approach to bone and soft tissue tumors
+Know 
+- Specifically the principles of management of metastatic bone disease
+- The general principles of approach to malignant bone tumours
+- Specifically the approach to soft tissue sarcomas
 
 ---
+Tell me about this image, 55 y old male, cough, pain left shoulder.
 
-![](/img/mbd.png/)
-
----
-
-![](/img/pbt.png/)
+![](/img/mbds.png/)
 
 ---
+22 y old male, night pain left thigh, swelling
+![](/img/pbts.png/)
 
+---
+40 year old lady with firm swelling in the sole
 ![](/img/ss.jpeg/)
 
 --- 
+## Your objectives in a viva
+- Describe lesion on the xray
+- Recognise aggrasive lesions
+- Formulate appropriate management
 
-## MDT approach 
+Buzz word is <font color="red">MDT approach</font> 
 
 ---
 ### Metastatic bone tumor
