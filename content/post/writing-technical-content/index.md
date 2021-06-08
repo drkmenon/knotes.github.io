@@ -54,7 +54,7 @@ An example **flowchart**:
     C -->|Two| E[Result 2]
     ```
 
-renders as
+renders as this
 
 ```mermaid
 graph TD
