@@ -13,6 +13,8 @@ weight: 2
 ---
 ## Bone healing. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CpIwKsE298w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Skeletal fracture occurs when bone absorbs sufficient energy under mechanical loading to fail, resulting in cortical discontinuity.   
 <mark> **Fracture healing is the biological process by which trabicular discontinuity of a bone is restored**.</mark> This requires temporal coordinated action of several different cell types, proteins and  the expression of hundreds of genes working towards restoring its structural integrity without scar formation.Fracture healing is nothing but reiterating embryonic endochondral bone formation
 >**Fracture healing is unique**. 
