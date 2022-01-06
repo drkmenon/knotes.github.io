@@ -1,0 +1,88 @@
+---
+title: "What is p-value and Confidence Interval?"
+author: "Kishore Puthezhath"
+date: "2022-01-2"
+output:
+  html_document:
+    df_print: paged
+draft: yes
+categories: Statistics
+tags: p and CI
+subtitle: ''
+summary: ''
+authors: []
+lastmod: ''
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+slug: p value and Confidence Interval
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<p>Assume that we have a normally distributed population of males and females with a mean height of 168cms and 158cms respectively.</p>
+<pre class="r"><code>library(ggplot2)
+set.seed(1)
+m=rnorm(100,168,5)
+f=rnorm(100,158,5)
+mf=as.data.frame(m,f)</code></pre>
+<pre class="r"><code>library(tidyverse)</code></pre>
+<pre><code>## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──</code></pre>
+<pre><code>## ✓ tibble  3.1.5     ✓ dplyr   1.0.7
+## ✓ tidyr   1.1.4     ✓ stringr 1.4.0
+## ✓ readr   2.0.2     ✓ forcats 0.5.1
+## ✓ purrr   0.3.4</code></pre>
+<pre><code>## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()</code></pre>
+<pre class="r"><code>mf %&gt;% 
+ggplot()+
+  geom_histogram(mapping = aes(m
+              ),position = &#39;identity&#39;,bins=70, alpha=.5, )+
+  geom_histogram(mapping = aes(f
+              ),position = &#39;identity&#39;,bins = 70, alpha=.5)+xlab(&quot;People&quot;)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<pre class="r"><code>htdif=mean(m)-mean(f)
+round(htdif,digits = 1)</code></pre>
+<pre><code>## [1] 10.7</code></pre>
+<p>We can see that the mean difference in the height is 10.7 cms.<br />
+<strong>If I measure the entire population in the world, will I find that the mean height for each sex is different?</strong> or<br />
+<strong>would I find that difference between the mean height is zero?</strong></p>
+<div id="how-to-answer-this-question" class="section level2">
+<h2>How to answer this question?</h2>
+<div id="frequentist-method" class="section level3">
+<h3>Frequentist method</h3>
+<p>Assume a hypothetical world with no difference in the height between the sexes.Do repeated experiments and find out what <code>proportion of times</code> would I obtain a difference between the observed means(ø) in that hypothetical world which is as great as or greater than difference I observed in my real experiment.
+<strong>This proportion of time is abbreviated as <em>p-value</em> </strong></p>
+<p>In other words <em>p-value</em>=P(ø/H), given the null(H), what is the probability of data(ø)</p>
+<p>but <em>p-value</em> is an answer to a question we didn’t intend to ask. So what to do with it?</p>
+</div>
+</div>
+<div id="traditional-answers" class="section level1">
+<h1>Traditional Answers</h1>
+<div id="fisher" class="section level2">
+<h2>Fisher:</h2>
+<p>Treat it as a measure of strength of evidence. This is not objectively satisfactory because, <em>p-value</em>=P(ø/H)≠P(H/ø)</p>
+</div>
+<div id="neyman-pearson-decision-framework" class="section level2">
+<h2>Neyman-Pearson decision framework</h2>
+<p>In each experiment, if you need to choose between the Null and the alternative, then there is possibility for two types of errors</p>
+<p>False Positive: Choosing the alternative when Null is true
+False Negative: Choosing the Null when the alternative is true</p>
+<p><strong>Control the rate at which you commit decision errors of false positive type by applying a strict procedure to each expiriment:</strong></p>
+<ul>
+<li>Compute <em>p-value</em></li>
+<li>Choose the Null if <em>p-value</em> is &gt; α</li>
+<li>Choose the alternative if <em>p-value</em> is &lt;= α</li>
+<li>Typically α is set at 0.05</li>
+</ul>
+</div>
+<div id="confidence-interval" class="section level2">
+<h2>Confidence Interval</h2>
+<p>Under repeated sampling in hypothetical world, 95% of confidence intervals constructed the same way will include the true value of the mean difference.</p>
+</div>
+</div>
